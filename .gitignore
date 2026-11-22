@@ -1,0 +1,14 @@
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
+
+# Configurações do Visual Studio Code
+.vscode/
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Arquivos do sistema Windows
+Thumbs.db
+Desktop.ini
